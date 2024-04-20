@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gamerfunky78
-- 👀 I’m interested in cybersecurity and ethical hacking
+- 👀 I’m interested in programming in both java and python.
 - 🌱 I’m currently learning  HTML,css, and javascript
-- 💞️ I’m looking to collaborate on  hacking ideas and cyber matters
+- 💞️ I’m looking to collaborate on java projects as well as python projects.
 - 📫 How to reach me  email(gamerfunky78@gmail.com)
 
 <!---
