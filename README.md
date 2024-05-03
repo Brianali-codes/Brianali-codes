@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gamerfunky78
+- 👋 Hi, I’m @Brian Ali
 - 👀 I’m interested in programming in both java and python.
 - 🌱 I’m currently learning  HTML,css, and javascript
 - 💞️ I’m looking to collaborate on java projects as well as python projects.
