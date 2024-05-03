@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brian Ali
-- 👀 I’m interested in programming in both java and python.
-- 🌱 I’m currently learning  HTML,css, and javascript
+- 👀 I’m interested in programming in python.
+- 🌱 I’m currently learning  HTML,css, and python 
 - 💞️ I’m looking to collaborate on java projects as well as python projects.
 - 📫 How to reach me  email(gamerfunky78@gmail.com)
 
