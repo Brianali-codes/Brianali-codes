@@ -1,9 +1,11 @@
 👋 Hi, I’m @Brian Ali
-am currently studting BSc in Information Technology.
+
+.am currently studying BSc in Information Technology.
 👀 I’m interested in programming in Web Development
 🌱 I’m currently learning  HTML,css, java react and python 
 💞️ I’m looking to collaborate on java projects as well as python projects.
-📫 How to reach me  email (gamerfunky78@gmail.com)
+📫 How to reach me  email  personal email (gamerfunky78@gmail.com).
+                           Business Email  (plasticfoods427@gmail.com).
 check out my portfolio at (gamerfunky78.github.io)
 
 <!---
