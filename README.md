@@ -3,7 +3,7 @@
 I am currently studying BSc in Information Technology.                                                                        
 👀 I’m interested in programming in Web Development.                                                                          
 🌱 I’m currently learning   javascript, React and python                                                                                       
-💞️ I’m looking to collaborate on web developing projects.                                                                                                                            
+💞️ I’m looking to collaborate on web developing and design projects.                                                                                                                            
 📫 How to reach me  email:                                                                      
                           Personal email (gamerfunky78@gmail.com).                                                          
                            Business Email  (plasticfoods427@gmail.com).    
