@@ -1,7 +1,7 @@
 👋 Hi, I’m @Brian Ali
 
 I am currently studying BSc in Information Technology.                                                                        
-👀 I’m interested in programming in Web Development.                                                                          
+👀 I’m interested in programming and Web Development.                                                                          
 🌱 I’m currently learning   javascript, React and python                                                                                       
 💞️ I’m looking to collaborate on web developing and design projects.                                                                                                                            
 📫 How to reach me  email:                                                                      
