@@ -15,4 +15,4 @@ gamerfunky78/gamerfunky78 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-Tools and languages: HTML, CSS, JAVASCRIPT, PYTHON, GIT, TAILWIND CSS, REACT, BOOTSTRAP.
+Tools and languages: HTML, CSS, JAVASCRIPT, PYTHON, GIT, TAILWIND CSS, REACT.
