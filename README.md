@@ -16,3 +16,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Tools and languages: HTML, CSS, JAVASCRIPT, PYTHON, GIT, TAILWIND CSS, REACT.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamerfunky78)](https://github.com/gamerfunky78/github-readme-stats)
