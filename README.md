@@ -19,7 +19,5 @@ Tools and languages: HTML, CSS, JAVASCRIPT, PYTHON, GIT, TAILWIND CSS, REACT.
 
 
 ![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamerfunky78&show_icons=true&theme=radical&card_width=500)
-
-
 ![gamerfunky78's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gamerfunky78&theme=vue-dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamerfunky78&hide_progress=false&show_icons=true&theme=radical&card_width=500)
