@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 Tools and languages: HTML, CSS, JAVASCRIPT, PYTHON, GIT, TAILWIND CSS, REACT.
 
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamerfunky78&show_icons=true&theme=radical&card_width=500)
+![gamerfunky78's Stats](https://github-readme-stats.vercel.app/api?username=gamerfunky78&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![gamerfunky78's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gamerfunky78&theme=vue-dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamerfunky78&hide_progress=false&show_icons=true&theme=radical&card_width=500)
+![gamerfunky78's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamerfunky78&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
