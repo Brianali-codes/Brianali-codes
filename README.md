@@ -18,6 +18,13 @@ You can click the Preview link to take a look at your changes.
 Tools and languages: HTML, CSS, JAVASCRIPT, PYTHON, GIT, TAILWIND CSS, REACT.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+
 
 ![gamerfunky78's Stats](https://github-readme-stats.vercel.app/api?username=gamerfunky78&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
