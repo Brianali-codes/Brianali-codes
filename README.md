@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 Tools and languages: HTML, CSS, JAVASCRIPT, PYTHON, GIT, TAILWIND CSS, REACT.
 
-![gamerfunky78's Tech Stack](#61DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![gamerfunky78's Stats](https://github-readme-stats.vercel.app/api?username=gamerfunky78&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
