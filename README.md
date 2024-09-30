@@ -23,3 +23,5 @@ Tools and languages: HTML, CSS, JAVASCRIPT, PYTHON, GIT, TAILWIND CSS, REACT.
 ![gamerfunky78's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gamerfunky78&theme=merko&hide_border=true)
 
 ![gamerfunky78's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamerfunky78&theme=merko&show_icons=true&hide_border=true&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gamerfunky78)](https://github.com/ryo-ma/github-profile-trophy)
