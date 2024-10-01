@@ -6,7 +6,7 @@ I am currently studying BSc in Information Technology.
 💞️ I’m looking to collaborate on web developing and design projects.   
 📫 How to reach me  email:                                                                      
                           Personal email (gamerfunky78@gmail.com).                                                          
-                           Business Email  (plasticfoods427@gmail.com).    
+                           Business Email  (brianali427@gmail.com).    
                              
 check out my portfolio at                                  (gamerfunky78.github.io)
 
