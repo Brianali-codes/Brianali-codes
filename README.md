@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="body align="center>
+  <div id="body align="center>
   👋 Hi, I’m @Brian Ali
   
   I am currently studying BSc in Information Technology.                                                                        
@@ -32,3 +30,6 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=gamerfunky78&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+</div>
+
+
