@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div align="center>
+<div id="body align="center>
   👋 Hi, I’m @Brian Ali
   
   I am currently studying BSc in Information Technology.                                                                        
