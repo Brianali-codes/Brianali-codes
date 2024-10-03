@@ -14,7 +14,14 @@
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
+
+  ---
+
+  ### :man_technologist: About Me :
   
+  ---
+
+  ### :hammer_and_wrench: Languages and Tools :
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -24,7 +31,9 @@
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   
   
-  
+  ---
+
+  ### :fire: My Stats :
   ![gamerfunky78's Stats](https://github-readme-stats.vercel.app/api?username=gamerfunky78&theme=merko&show_icons=true&hide_border=true&count_private=true)
   
   ![gamerfunky78's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gamerfunky78&theme=merko&hide_border=true)
