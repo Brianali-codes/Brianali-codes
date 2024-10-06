@@ -57,8 +57,12 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=gamerfunky78&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+<div>
+     Tell: +254795328270
+</div>
+ 
 </div>
 
 
-contact me : 0795328270
+
 
