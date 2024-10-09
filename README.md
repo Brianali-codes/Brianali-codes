@@ -57,10 +57,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=gamerfunky78&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-<div>
-     Tel: +254795328270
-</div>
- 
+
 </div>
 
 
