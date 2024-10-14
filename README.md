@@ -50,11 +50,11 @@
   ### :fire: My Stats :
   ![gamerfunky78's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brianali-codes&&show_icons=true&theme=dark)
   
-  ![gamerfunky78's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gamerfunky78&theme=merko&hide_border=true)
+  ![gamerfunky78's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brianali-codes&theme=merko&hide_border=true)
   
-  ![gamerfunky78's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gamerfunky78&theme=merko&show_icons=true&hide_border=true&layout=compact)
+  ![gamerfunky78's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianali-codes&theme=merko&show_icons=true&hide_border=true&layout=compact)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=gamerfunky78&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Brianali-codes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
