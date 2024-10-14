@@ -48,7 +48,7 @@
   ---
 
   ### :fire: My Stats :
-  ![gamerfunky78's Stats](https://github-readme-stats.vercel.app/api?username=gamerfunky78&theme=merko&show_icons=true&hide_border=true&count_private=true)
+  ![gamerfunky78's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Brianali-codes&&show_icons=true&theme=dark)
   
   ![gamerfunky78's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gamerfunky78&theme=merko&hide_border=true)
   
