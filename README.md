@@ -52,7 +52,7 @@
   
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brianali-codes&theme=merko&hide_border=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianali-codes&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianali-codes&layout=compact&theme=radical)
   
   [![trophies](https://github-profile-trophy.vercel.app/?username=Brianali-codes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
