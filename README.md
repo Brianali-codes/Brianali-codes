@@ -1,21 +1,13 @@
 <div id="header" align="start">
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=gamerfunky78&style=flat-square&color=blue" alt=""/>
-  </br>
- <p align="start">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
-</p>
-
-  ---
-
+     <p align="start">
+       <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+There+🖐;Welcome+to+my+GitHub+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+     </p>
   ### :man_technologist: About Me :
   
   I am a student at Mt Kenya University Stydying Bsc in Information Technology
   I aspire to become A frontend and eventually a fullstack developer
   My Hobbies are Casual Gaming,Watching Movies and Travelling
   For More information Check out my portfolio at <a href="https://brianali.netlify.app/" target="_blank">brianali.netlify.app</a>
-  
-  ---
 
   ### :hammer_and_wrench: Languages and Tools :
   
