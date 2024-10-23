@@ -5,9 +5,9 @@
      
   ### :man_technologist: About Me :
   
-  I am a student at Mt Kenya University Stydying Bsc in Information Technology
-  I aspire to become A frontend and eventually a fullstack developer
-  My Hobbies are Casual Gaming,Watching Movies and Travelling
+  I am a student at Mt Kenya University Stydying Bsc in Information Technology.
+  I aspire to become A frontend and eventually a fullstack developer.
+  My Hobbies are Casual Gaming,Watching Movies and Travelling.
   For More information Check out my portfolio at <a href="https://brianali.netlify.app/" target="_blank">brianali.netlify.app</a>
 
   ### :hammer_and_wrench: Languages and Tools :
