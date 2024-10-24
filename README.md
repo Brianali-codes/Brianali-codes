@@ -37,14 +37,6 @@
   <img alt="SBrian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianali-codes&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
 </div>
   <br/>
-<details>	
-  <summary><b>🔥 Github Streaks</b></summary><br>
-  <p align="start">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=brianali-codes&hide_border=true&theme=dark"></a></p>
-</details>
-
-</div>
-
 </div>
 
 
