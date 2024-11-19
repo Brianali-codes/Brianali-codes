@@ -27,7 +27,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" height="40"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" height="40"/>&nbsp
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" width="40" title="ReactBootstrap" height="40" />&nbsp
-  </div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="40" title="ReactBootstrap" height="40" />&nbsp
+ </div>
   
   
   ---
