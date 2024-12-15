@@ -20,6 +20,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="NodeJS" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="NodeJS" alt="Tailwind css" width="40" height="40" />&nbsp;
+![framer](https://github.com/user-attachments/assets/1386ec61-9fff-400a-8f3c-0e623651ff7d)<svg fill="none" height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg"><path clip-rule="evenodd" d="m16 30c7.732 0 14-6.268 14-14 0-7.73199-6.268-14-14-14-7.73199 0-14 6.26801-14 14 0 7.732 6.26801 14 14 14z" fill="#fff" fill-rule="evenodd"/><path clip-rule="evenodd" d="m9 20.3335h7v6.6667z" fill="#05f" fill-rule="evenodd"/><path d="m16 13.6665h-7v6.6667h14z" fill="#0af"/><path d="m9 7 7 6.6667h7v-6.6667z" fill="#8df"/></svg>
    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" **alt="Git" width="40" height="40"/>&nbsp;
