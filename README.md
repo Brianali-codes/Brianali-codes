@@ -42,7 +42,7 @@
 </div>
 
   <br/>
-  <a href="https://ko-fi.com/brianalicodes"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0'" width="40" alt='Buy Me a Coffee at ko-fi.com' id="bmc"></a>
+  <a href="https://ko-fi.com/brianalicodes"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0'" width="200" alt='Buy Me a Coffee at ko-fi.com' id="bmc"></a>
 </div>
 
 
