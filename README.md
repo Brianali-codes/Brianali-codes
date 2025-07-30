@@ -44,6 +44,6 @@
 </div>
 
   <br/>
-  <a href="https://ko-fi.com/R6R718AMG2"><img src="https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0'" width="150" alt='Buy Me a Coffee at ko-fi.com' id="bmc"></a>
+  <a href='https://ko-fi.com/R6R718AMG2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
