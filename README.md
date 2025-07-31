@@ -42,7 +42,8 @@
   
   <a href='https://ko-fi.com/R6R718AMG2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-![snake animation](https://github.com/<seu brianali-codes>/<seu brianali-codes>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/brianali-codes/brianali-codes/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
