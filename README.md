@@ -39,5 +39,11 @@
 
   <br/>
   <a href='https://ko-fi.com/R6R718AMG2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+      <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
 
