@@ -36,10 +36,12 @@
   <img alt="rian's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=brianali-codes&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
   <img alt="SBrian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianali-codes&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
 </div>
-
   <br/>
+  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+  <br/>
+  
   <a href='https://ko-fi.com/R6R718AMG2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 </div>
 
