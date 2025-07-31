@@ -2,22 +2,22 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs every day at midnight UTC
-  workflow_dispatch:      # allows manual runs
+    - cron: "0 0 * * *"  # runs daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake SVG
-        uses: InvalidLenni/README.md@Template
+        uses: Platane/snk@v3
         with:
           github_user_name: brianali-codes
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Commit and Push SVG
+      - name: Push to GitHub
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
-
