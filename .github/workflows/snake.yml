@@ -2,12 +2,13 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily
+    - cron: "0 0 * * *"  # every day
   workflow_dispatch:
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -18,6 +19,11 @@ jobs:
           github_user_name: brianali-codes
           outputs: |
             dist/github-contribution-grid-snake.svg
+
+      - name: Checkout again for deploy
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # not strictly required, but clean
 
       - name: Push to GitHub
         uses: JamesIves/github-pages-deploy-action@v4
