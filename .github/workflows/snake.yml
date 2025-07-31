@@ -2,30 +2,26 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate Snake SVGs and GIF
         uses: Platane/snk@v3
         with:
-          github_user_name: brianali-codes
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Checkout again for deploy
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: false  # not strictly required, but clean
-
-      - name: Push to GitHub
+      - name: Deploy generated files to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
