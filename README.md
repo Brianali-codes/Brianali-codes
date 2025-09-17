@@ -41,8 +41,6 @@
   <br/>
   
   <a href='https://ko-fi.com/R6R718AMG2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-![snake gif](https://github.com/brianali-codes/brianali-codes/blob/output/github-snake.svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brianali-codes&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
