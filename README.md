@@ -1,5 +1,5 @@
 <div id="header" align="start">       
-  Student at Mt Kenya University Stydying Bsc in Information Technology.
+  Student at Mt Kenya University Stydying for a Bachelor's Degree in Information Technology.
   I aspire to become A frontend and eventually a fullstack developer.
   My Hobbies are Casual Gaming,Watching Movies and Travelling.
   For More information Check out my portfolio at <a href="https://brianali.netlify.app/" target="_blank">brianali.netlify.app</a>
