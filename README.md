@@ -1,4 +1,9 @@
-<div id="header" align="start">       
+<div id="header" align="start"> 
+
+  
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/11018207-9358-47af-ba78-8f6b0895cb5f)
+
+  
   Student at Mt Kenya University Stydying for a Bachelor's Degree in Information Technology.
   I aspire to become A frontend and eventually a fullstack developer.
   My Hobbies are Casual Gaming,Watching Movies and Travelling.
