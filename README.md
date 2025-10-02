@@ -9,7 +9,7 @@
   Wanna Get in touch See my portfolio <a href="https://brian-ali.netlify.app/" target="_blank">Here</a>
 
 <p align="center">
-  ### Languages and Tools
+  Languages and Tools.
 </p>
   
  <div style="background-color: white; padding: 10px;">
@@ -34,7 +34,11 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" title="Tauri" **alt="Tauri" width="40" height="40"/>&nbsp;   
  </div>
 
-### GitHub Stats :
+<p align="center">
+  Github Stats.
+</p>
+
+
 <div style="display: flex;"; align="center">
   <img alt="rian's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=brianali-codes&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
   <img alt="SBrian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianali-codes&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
