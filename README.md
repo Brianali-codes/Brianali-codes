@@ -3,7 +3,7 @@
   ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/b3858a1b-6c4e-400f-80e7-4a7d8324d219)
 
   
-  Undergraduate at Mt Kenya University Stydying for a Bachelor's Degree in Information Technology.
+  Undergraduate at Mt Kenya University currently pursuing a Bachelor's Degree in Information Technology.
   I aspire to become A frontend and eventually a fullstack developer.
   My Hobbies are Casual Gaming,Watching Movies and Travelling which influence the way i create applications.
   Wanna Get in touch See my portfolio <a href="https://brian-ali.netlify.app/" target="_blank">Here</a>
