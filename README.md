@@ -6,7 +6,7 @@
   Student at Mt Kenya University Stydying for a Bachelor's Degree in Information Technology.
   I aspire to become A frontend and eventually a fullstack developer.
   My Hobbies are Casual Gaming,Watching Movies and Travelling.
-  For More information Check out my portfolio at <a href="https://brian-ali.netlify.app/" target="_blank">This Link</a>
+  For More information Check out my portfolio <a href="https://brian-ali.netlify.app/" target="_blank">Here</a>
 
   ### Languages and Tools :
   
