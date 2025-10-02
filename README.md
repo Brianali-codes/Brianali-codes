@@ -1,7 +1,8 @@
 <div id="header" align="start"> 
 
   
-![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/11018207-9358-47af-ba78-8f6b0895cb5f)
+![Uploading 235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif…]()
+
 
   
   Student at Mt Kenya University Stydying for a Bachelor's Degree in Information Technology.
