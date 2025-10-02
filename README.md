@@ -39,6 +39,7 @@
   <img alt="SBrian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianali-codes&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
 </div>
 &nbsp;
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brianali-codes&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
   
