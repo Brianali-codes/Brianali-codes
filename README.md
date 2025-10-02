@@ -31,9 +31,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" title="Framer Motion" **alt="Framer" width="40" height="40"/>&nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" title="Tauri" **alt="Tauri" width="40" height="40"/>&nbsp;   
  </div>
-  
-  
-  ---
 
 ### GitHub Stats :
 <div style="display: flex;"; align="center">
