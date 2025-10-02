@@ -1,6 +1,7 @@
 <div id="header" align="start"> 
-  
-![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/user-attachments/assets/54384f2c-d2b5-4807-8903-6e273eaa145a)
+
+  ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/b3858a1b-6c4e-400f-80e7-4a7d8324d219)
+
   
   Student at Mt Kenya University Stydying for a Bachelor's Degree in Information Technology.
   I aspire to become A frontend and eventually a fullstack developer.
