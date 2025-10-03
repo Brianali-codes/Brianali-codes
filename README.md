@@ -14,7 +14,14 @@
 &nbsp;
  <div style="background-color: white; padding: 10px; align:center;">
    
-[![My Skills](https://skillicons.dev/icons?i=react,css,html,js,nodejs,ts,tailwind,materialui,git,vite,py,nextjs,netlify,mysql,supabase,tauri,arch,mongodb,au,postman,vscode,webpack)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=react,css,html,js,nodejs,ts,tailwind,materialui,git,vite,py,nextjs,netlify,mysql,supabase,tauri,arch,mongodb,au,postman,vscode,webpack" 
+    />
+  </a>
+</p>
+
 
  </div>
  &nbsp;
