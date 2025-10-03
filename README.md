@@ -31,7 +31,8 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="40" title="MySQL" height="40" />&nbsp
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" title="MySQL" height="40" />&nbsp
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" title="Framer Motion" **alt="Framer" width="40" height="40"/>&nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" title="Tauri" **alt="Tauri" width="40" height="40"/>&nbsp;   
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" title="Tauri" **alt="Tauri" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg"  title="Arch Linux" **alt="Arch Linux" width="40" height="40"/>&nbsp;
  </div>
  &nbsp;
 <div style="display: flex;"; align="center">
