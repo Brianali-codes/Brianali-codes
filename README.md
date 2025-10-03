@@ -17,10 +17,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=react,css,html,js,nodejs,ts,tailwind,materialui,git,vite,py,nextjs,netlify,mysql,supabase,tauri,arch,mongodb,au,postman,vscode,webpack" 
+      src="https://skillicons.dev/icons?i=react,css,html,javascript,nodejs,typescript,tailwindcss,materialui,git,vite,python,nextjs,reactbootstrap,netlify,mysql,supabase,framer,tauri,arch,mongodb,canva,postman,vscode,webpack" 
     />
   </a>
 </p>
+
 
 
  </div>
