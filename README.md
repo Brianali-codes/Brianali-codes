@@ -39,7 +39,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" title="Postman" **alt="Postman" width="60" height="60"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title="Vs code" **alt="Visual Studio Code" width="60" height="60"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="60" height="60"/>&nbsp;
-          
+
+[![My Skills](https://skillicons.dev/icons?i=react,css,html,js,nodejs,ts,tailwind,materialui,git,vite,py,nextjs,netlify,mysql,supabase,tauri,arch,mongodb,au,postman,vscode,webpack)](https://skillicons.dev)
+
           
 
    
