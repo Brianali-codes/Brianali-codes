@@ -8,9 +8,9 @@
   My Hobbies are Casual Gaming,Watching Movies and Travelling which influence the way i create applications.
   Wanna Get in touch See my portfolio <a href="https://brian-ali.netlify.app/" target="_blank">Here</a>
 &nbsp;
-<p align="center">
-  __Languages, Tools and Stats.__
-</p>
+<h1 align="center">
+  Languages, Tools and Stats.
+</h1>
 &nbsp;
  <div style="background-color: white; padding: 10px; align:center;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
