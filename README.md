@@ -7,7 +7,7 @@
   I aspire to become A frontend and eventually a fullstack developer.
   My Hobbies are Casual Gaming,Watching Movies and Travelling which influence the way i create applications.
   Wanna Get in touch See my portfolio <a href="https://brian-ali.netlify.app/" target="_blank">Here</a>
-
+&nbsp;
 <p align="center">
   Languages, Tools and Stats.
 </p>
