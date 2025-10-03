@@ -9,7 +9,7 @@
   Wanna Get in touch See my portfolio <a href="https://brian-ali.netlify.app/" target="_blank">Here</a>
 &nbsp;
 <p align="center">
-  Languages, Tools and Stats.
+  __Languages, Tools and Stats.__
 </p>
 &nbsp;
  <div style="background-color: white; padding: 10px; align:center;">
