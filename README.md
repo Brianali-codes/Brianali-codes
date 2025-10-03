@@ -33,6 +33,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" title="Framer Motion" **alt="Framer" width="40" height="40"/>&nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" title="Tauri" **alt="Tauri" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg"  title="Arch Linux" **alt="Arch Linux" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo DB" **alt="MongoDb" width="40" height="40"/>&nbsp;
  </div>
  &nbsp;
 <div style="display: flex;"; align="center">
