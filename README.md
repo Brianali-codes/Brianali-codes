@@ -5,7 +5,7 @@
   Currently pursuing a Bachelor's Degree in Information Technology.
   I like  building software and bringing my creativity to every day tasks
   My Hobbies are Casual Gaming,Watching Movies and Travelling which influence the way i create applications.
-  Wanna Get in touch See my portfolio <a href="https://brian-ali.netlify.app/" target="_blank">Here</a>
+  Wanna Get in touch?  <a href="https://brian-ali.netlify.app/" target="_blank">See my portfolio</a>
 &nbsp;
 
   Languages, Tools and Stats.
@@ -17,13 +17,7 @@
     />
   </a>
 </p>
-
-
-
-
  </div>
- &nbsp;
-
   <img alt="rian's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=brianali-codes&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
 
 
