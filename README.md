@@ -1,7 +1,6 @@
 <div id="header" align="start"> 
 
-  ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/b3858a1b-6c4e-400f-80e7-4a7d8324d219)
-
+ Hello I am Brian
   
   Undergraduate at Mt Kenya University currently pursuing a Bachelor's Degree in Information Technology.
   I aspire to become A frontend and eventually a fullstack developer.
