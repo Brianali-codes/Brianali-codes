@@ -1,7 +1,7 @@
 <div id="header" align="start"> 
 
- Hello I am Brian.
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=15&pause=1000&color=F7F7F7&repeat=false&width=426&height=40&lines=Hello+There+I+am+Brian.)](https://git.io/typing-svg)
+
   Currently pursuing a Bachelor's Degree in Information Technology.
   I like  building software and bringing my creativity to every day tasks
   My Hobbies are Casual Gaming,Watching Movies and Travelling which influence the way i create applications.
