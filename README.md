@@ -29,6 +29,15 @@ Information Technology undergraduate and mobile software engineer specializing i
 
 <p align="left">
   <img width="48" height="48" alt="FRAPP Logo" src="https://github.com/user-attachments/assets/5e1b953c-1093-43d2-b5f4-018a08ff1336" />
+  <a href="https://rankcert.com/product/frapp" target="_blank" rel="nofollow noopener">
+    <img src="https://rankcert.com/badge/frapp?style=card&theme=light" alt="Frapp - Certified on RankCert"  height="48" />
+  </a>
+  <a href="https://rookieenough.github.io/Orion-Data/redirect.html?id=frapp&icon=https%3A%2F%2Fraw.githubusercontent.com%2FBrianali-codes%2FFrapp%2Frefs%2Fheads%2Fmain%2Fassets%2Fimages%2FFRAPP_ICON1.png" target="_blank"  rel="nofollow noopener">
+    <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" alt="Get it on Orion Store"  height="48"/>
+  </a>
+  <a href="https://ko-fi.com/brianalicodes" target="_blank">
+    <img  height="48" alt="Support on Ko-fi" src="https://github.com/user-attachments/assets/5eadacfb-c20e-48d9-b592-a306c96e5833" />
+  </a>
 </p>
 
 <p align="left">
@@ -50,17 +59,7 @@ The client architecture interfaces directly with the GamerPower and CheapShark R
 
 Get it <a href="https://frappgiveaways.vercel.app" target="_blank">here</a>
 
-<p align="left">
-  <a href="https://rankcert.com/product/frapp" target="_blank" rel="nofollow noopener">
-    <img src="https://rankcert.com/badge/frapp?style=card&theme=light" alt="Frapp - Certified on RankCert" width="220" />
-  </a>
-  <a href="https://rookieenough.github.io/Orion-Data/redirect.html?id=frapp&icon=https%3A%2F%2Fraw.githubusercontent.com%2FBrianali-codes%2FFrapp%2Frefs%2Fheads%2Fmain%2Fassets%2Fimages%2FFRAPP_ICON1.png" target="_blank" rel="nofollow noopener">
-    <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" alt="Get it on Orion Store" width="220" />
-  </a>
-  <a href="https://ko-fi.com/brianalicodes" target="_blank">
-    <img width="220" alt="Support on Ko-fi" src="https://github.com/user-attachments/assets/5eadacfb-c20e-48d9-b592-a306c96e5833" />
-  </a>
-</p>
+
 
 ---
 
@@ -68,6 +67,12 @@ Get it <a href="https://frappgiveaways.vercel.app" target="_blank">here</a>
 
 <p align="left">
   <img width="48" height="48" alt="Shiori Logo" src="https://github.com/user-attachments/assets/6d1d5d51-b47f-40c1-9940-7cf6fb8392d1" />
+  <a href="https://rookieenough.github.io/Orion-Data/redirect.html?id=shiori&icon=https%3A%2F%2Fraw.githubusercontent.com%2FBrianali-codes%2FShiori%2Fmaster%2Fassets%2Fimages%2Fshiori-icon.png" target="_blank" rel="nofollow noopener">
+    <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" alt="Get it on Orion Store"  height="48" />
+  </a>
+  <a href="https://ko-fi.com/brianalicodes" target="_blank">
+    <img height="48" alt="Support on Ko-fi" src="https://github.com/user-attachments/assets/5eadacfb-c20e-48d9-b592-a306c96e5833" />
+  </a>
 </p>
 
 <p align="left">
@@ -87,13 +92,7 @@ Designed around modern UI guidelines, Shiori features Google Pixel-inspired vect
 * **Native Media Integration:** Includes an asynchronous asset management layer for direct local downloads and one-tap native wallpaper application to Android lock and home screens.
 * **Reactive State Management:** Driven by Redux Toolkit for unified handling of favorites, local storage sync, theme contexts (Light/Dark/System), and cached search parameters.
 
-<p>A modern React Native mobile application for discovering and using beautiful wallpapers powered by the Wallhaven API. Get it <a href="https://shiori.framer.website" target="_blank">here</a></p>
+<p>A modern React Native mobile application for discovering and using beautiful wallpapers powered by the Wallhaven API. </p>
+  
+Get it <a href="https://shiori.framer.website" target="_blank">here</a>
 
-<p align="left">
-  <a href="https://rookieenough.github.io/Orion-Data/redirect.html?id=shiori&icon=https%3A%2F%2Fraw.githubusercontent.com%2FBrianali-codes%2FShiori%2Fmaster%2Fassets%2Fimages%2Fshiori-icon.png" target="_blank" rel="nofollow noopener">
-    <img src="https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png" alt="Get it on Orion Store" width="250" height="70" />
-  </a>
-  <a href="https://ko-fi.com/brianalicodes" target="_blank">
-    <img width="220" alt="Support on Ko-fi" src="https://github.com/user-attachments/assets/5eadacfb-c20e-48d9-b592-a306c96e5833" />
-  </a>
-</p>
