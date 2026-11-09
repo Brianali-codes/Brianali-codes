@@ -1,12 +1,11 @@
-# Brian Ali
+# Brian Ali [View Portfolio](https://brian-ali.netlify.app/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=15&pause=1000&color=F7F7F7&repeat=false&width=426&height=40&lines=Hello+There+I+am+Brian.)](https://git.io/typing-svg)
 
 Information Technology undergraduate and mobile software engineer specializing in cross-platform Android application engineering, serverless system architectures, and client-side performance optimization. Focused on delivering privacy-first, zero-telemetry software with modern frontend design systems.
 
-[Portfolio](https://brian-ali.netlify.app/) • [GitHub](https://github.com/brianali-codes)
 
----
+
 
 ## Languages, Tools and Technologies
 
